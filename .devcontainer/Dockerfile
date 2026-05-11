@@ -18,6 +18,7 @@ RUN apt-get install -y \
     texlive-latex-extra \
     texlive-fonts-recommended \
     texlive-extra-utils \
+    texlive-science \
     xzdec
 
 RUN apt-get install -y \
